@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoga on seekingfourth</title>
+    <link>/tags/yoga/</link>
+    <description>Recent content in Yoga on seekingfourth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Mar 2020 13:08:38 +0530</lastBuildDate><atom:link href="/tags/yoga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do you desire yourself?</title>
+      <link>/posts/do_you_desire_yourself/</link>
+      <pubDate>Fri, 20 Mar 2020 13:08:38 +0530</pubDate>
+      
+      <guid>/posts/do_you_desire_yourself/</guid>
+      <description>Whatever a human achieves, is through concentration of mind and a developed intellect which can discriminate and will. It is very well known that a calm mind achieves more than an agitated mind. A personality living the agitations is tossed here and there with the compulsions of the acquired nature. Agitations are caused by attachments primarily, which subsequently leads to fear and anger. Fear is of losing the object of attachment and anger arises for anything which comes in the way of you and the object.</description>
+    </item>
+    
+    <item>
+      <title>Science, Technology and Deployment</title>
+      <link>/posts/science_technology_deployment/</link>
+      <pubDate>Fri, 10 Jan 2020 12:56:39 +0530</pubDate>
+      
+      <guid>/posts/science_technology_deployment/</guid>
+      <description>Wonderment, Curiosity and Necessity have propelled humans to explore and invent. In untiring joy of experiments and/or a goal in mind, a Scientist brings forth some scientific truth. Based on this scientific discovery, Engineers workout a technology which goes further through the ecosystem and becomes a product in service of beings. Entire cycle goes through continuous improvements so that it can become easily accessible for the masses - better and efficient.</description>
+    </item>
+    
+  </channel>
+</rss>

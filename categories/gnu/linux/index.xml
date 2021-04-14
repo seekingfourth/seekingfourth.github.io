@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GNU/Linux on seekingfourth</title>
+    <link>/categories/gnu/linux/</link>
+    <description>Recent content in GNU/Linux on seekingfourth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/categories/gnu/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Devanagari Support</title>
+      <link>/posts/emacs_devanagari/</link>
+      <pubDate>Thu, 08 Apr 2021 13:58:19 +0530</pubDate>
+      
+      <guid>/posts/emacs_devanagari/</guid>
+      <description>   Command Description     C-x RET C-\ devanagari-itrans Change input method to देवनागरी   C-\ Toggle between Hindi and English    </description>
+    </item>
+    
+    <item>
+      <title>An Introduction to GNU/Linux Commandline Interface</title>
+      <link>/posts/intro_to_cmdline/</link>
+      <pubDate>Thu, 04 Apr 2019 21:38:18 +0530</pubDate>
+      
+      <guid>/posts/intro_to_cmdline/</guid>
+      <description>Introduction  A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&amp;#39;s operating system and get the output. There are two types of interfaces available to do your work:
+  Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment</description>
+    </item>
+    
+  </channel>
+</rss>

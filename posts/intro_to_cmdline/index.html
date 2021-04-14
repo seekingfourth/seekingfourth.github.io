@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
+
+    <meta name="author" content="seekingfourth">
+    <meta name="description" content="Introduction  A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&#39;s operating system and get the output. There are two types of interfaces available to do your work:
+  Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment">
+    <meta name="keywords" content="Vedānta, Spirituality">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="An Introduction to GNU/Linux Commandline Interface"/>
+<meta name="twitter:description" content="Introduction  A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&#39;s operating system and get the output. There are two types of interfaces available to do your work:
+  Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment"/>
+
+    <meta property="og:title" content="An Introduction to GNU/Linux Commandline Interface" />
+<meta property="og:description" content="Introduction  A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&#39;s operating system and get the output. There are two types of interfaces available to do your work:
+  Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/intro_to_cmdline/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2019-04-04T21:38:18&#43;05:30" />
+<meta property="article:modified_time" content="2019-04-04T21:38:18&#43;05:30" />
+
+
+
+    <title>
+  An Introduction to GNU/Linux Commandline Interface · seekingfourth
+</title>
+
+    
+      <link rel="canonical" href="/posts/intro_to_cmdline/">
+    
+
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.1.7" as="font" type="font/woff2" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.eb7743f94930acfd17146aecc1f80e86fe35b3e451f2ec0c98485f9c4d962f34.css" integrity="sha256-63dD&#43;UkwrP0XFGrswfgOhv41s&#43;RR8uwMmEhfnE2WLzQ=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.dde8a61eb31a32353b4baf3d9113f03c4ea2a8ca9bb736f59ca2d2b2cb664f0b.css" integrity="sha256-3eimHrMaMjU7S689kRPwPE6iqMqbtzb1nKLSsstmTws=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.82.0" />
+  </head>
+
+  
+  
+    
+  
+  <body class="preload-transitions colorscheme-auto"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      seekingfourth
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Posts</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/categories/">Categories</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/series/">Series</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/tags/">Tags</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="/posts/intro_to_cmdline/">
+              An Introduction to GNU/Linux Commandline Interface
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2019-04-04T21:38:18&#43;05:30'>
+                April 4, 2019
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              8-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa fa-folder" aria-hidden="true"></i>
+    <a href="/categories/gnu/linux/">GNU/Linux</a></div>
+
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <a href="/tags/commandline/">CommandLine</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Introduction
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&#39;s operating system and get the output. There are two types of interfaces available to do your work:</p>
+<ul>
+<li>
+<p>Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment</p>
+</li>
+<li>
+<p>Commandline Interface: Stuff like you type in some command and invoke the related program. This is available through a program named shell</p>
+</li>
+</ul>
+<blockquote>
+<p>An Operating system sits between your applications and computer hardware. It virtualizes and protects the hardware resources so that multiple process can run concurrently and safely.</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Why Commandline?
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+Why do we need commandline when GUI is available? The kind of work you can perform with commandline, you can&#39;t do that with GUI or do that efficiently. This is because a GUI is designed to cater some specific purposes and all the generalizations can&#39;t be met. For example, you want to list all the images of size greater than 8MB and move them into a separate dir? Think of it for a moment, how would you do it in GUI? With commandline, things like these are easy with the availability of myriad programs, its ability of argument parsing and other shell facilities (PIPE, shell expansion etc.). Nonetheless, GUI has its own place, but the kind of power you get as a user with commandline is indispensable!</p>
+<blockquote>
+<p>once a commandline user, always a commandline user!</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Shell and Terminal Emulator
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+Shell
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
+<p>A shell is basically a programming language. When you invoke the shell interpreter interactively, it becomes a commandline interface. So, shell is a generic term. This means that you can have a shell with any interpreted programming language i.e. python shell, tcl shell.</p>
+<p>
+For their rich set of features for commandline interface, following different shells are available on GNU/Linux systems:</p>
+<table>
+<thead>
+<tr>
+<th>shell</th>
+<th>about</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sh</td>
+<td>Bourne shell, first one to be released with Unix</td>
+</tr>
+<tr>
+<td>bash</td>
+<td>Bourne-Again shell, incorporates features from csh and ksh</td>
+</tr>
+<tr>
+<td>csh</td>
+<td>C shell, BSD default shell</td>
+</tr>
+<tr>
+<td>tcsh</td>
+<td>Improved csh</td>
+</tr>
+<tr>
+<td>ksh</td>
+<td>Korn shell</td>
+</tr>
+<tr>
+<td>zsh</td>
+<td>Extended Bourne shell including useful features from tcsh and ksh</td>
+</tr>
+</tbody>
+</table>
+<p>
+Among these bash shell is the default on most GNU/Linux distributions. But, zsh is becoming popular too.</p>
+<blockquote>
+<p>If you don&#39;t have a running GNU/Linux system, install one. Debian is a good choice.</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+Terminal Emulator
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<p>
+A terminal emulator is a graphical window embedding a shell program. There are different terminal emulators which come pre-installed with different desktop environments:</p>
+<table>
+<thead>
+<tr>
+<th>Desktop Environment</th>
+<th>Name of Terminal Emulator</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gnome</td>
+<td>Terminal</td>
+</tr>
+<tr>
+<td>KDE</td>
+<td>Konsole</td>
+</tr>
+<tr>
+<td>LXDE</td>
+<td>lxterminal</td>
+</tr>
+<tr>
+<td>XFCE</td>
+<td>xfce4-terminal</td>
+</tr>
+</tbody>
+</table>
+<p>
+In case of interest, read more about Computer Terminal</p>
+<p>
+This tutorial uses bash on Gnome Terminal.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Commandline Syntax
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<p>
+There is a POSIX Standard for command line interface. So, all standard commands (or say utilities) follow a general syntax:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">utility_name<span style="color:#f92672">[</span>-a<span style="color:#f92672">][</span>-b<span style="color:#f92672">][</span>-c option_argument<span style="color:#f92672">]</span> <span style="color:#f92672">[</span>-d|-e<span style="color:#f92672">][</span>-f<span style="color:#f92672">[</span>option_argument<span style="color:#f92672">]][</span>operand...<span style="color:#f92672">]</span></code></pre></div>
+</div>
+<p>
+Commands accept options (flags or with arguments) and operands. There are short options (single character) with single hyphen (-) and long options (strings) with two hyphens (–). If it is not making sense, worry not, shortly, it will.</p>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+A word on Filesystem
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<p>
+Before we move on, let&#39;s look at how files are organized on a Unix like system (yes, GNU/Linux is not Unix but is Unix like). There is a standard named Filesystem Hierarchy Standard (FHS) for this. GNU/Linux follows everything is a file philosophy. Filesystem is laid out in a tree like structure. The root of the tree starts with / and paths are separated by / only. So, all files (regular), directories, devices appear in a single tree irrespective of the underlying physical location. For example, <em>bin, /home/gv</em>, /dev/audio are paths in a filesystem.</p>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-2">
+<h2 id="headline-8">
+Running a command
+</h2>
+<div id="outline-text-headline-8" class="outline-text-2">
+<p>
+Let&#39;s enter our first command:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ ps</code></pre></div>
+</div>
+<p>
+Here ps is the command and $ is the shell prompt. ps command reports the snapshot of the current processes. A new shell, displays following output with ps command:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ ps
+  PID TTY          TIME CMD
+<span style="color:#ae81ff">23320</span> pts/5    00:00:00 bash
+<span style="color:#ae81ff">23391</span> pts/5    00:00:00 ps</code></pre></div>
+</div>
+<p>
+Note that the process with PID (process id) 23320 is the shell itself! So, one way (may not be the best) to figure out which shell you are running by looking at the ps output and checking CMD column.</p>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-2">
+<h2 id="headline-9">
+The PATH Environment Variable
+</h2>
+<div id="outline-text-headline-9" class="outline-text-2">
+<p>
+When we run any command, an executable file (some program on disk) gets run actually. So, when we ran ps command, a file named ps got run. Where is the file located and how did the shell figure out its location? which command tells the location of the file:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ which ps                      <span style="color:#75715e"># /bin/ps</span></code></pre></div>
+</div>
+<p>
+You see that ps is located under <em>bin</em> but we are able to call it with just the name and not the complete path. How? When we execute any command, shell searches for the executable file under all dirs (directories) listed in PATH environment variable.</p>
+<p>
+Let&#39;s display PATH variable:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ echo $PATH                    <span style="color:#75715e"># /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games</span></code></pre></div>
+</div>
+<p>
+So, shell searches all dirs separated by colon and in priority (i.e. if there is same file in <em>usr/bin</em> and <em>bin</em>, file under <em>usr/bin</em> will be executed). Here, echo command displays any string given to it. Note that first $ is part of prompt, but $ in $PATH dereferences the PATH environment variable. You may display all environment variables with env command:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ env</code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-2">
+<h2 id="headline-10">
+stdin, stdout, stderr
+</h2>
+<div id="outline-text-headline-10" class="outline-text-2">
+<p>Three file descriptors are open by default for any process unless you explicitly close them. These are:</p>
+<table>
+<thead>
+<tr>
+<th class="align-right">file descriptor(fd)</th>
+<th>assignment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="align-right">0</td>
+<td>standard input (stdin)</td>
+</tr>
+<tr>
+<td class="align-right">1</td>
+<td>standard output (stdout)</td>
+</tr>
+<tr>
+<td class="align-right">2</td>
+<td>standard error (srderr)</td>
+</tr>
+</tbody>
+</table>
+<p>
+Normally, stdin is linked to keyboard, and, stdout/stderr to the screen. stdout is for general output, and stderr, as the name suggests, for errors/warnings in the program.</p>
+<p>
+So, the commands we execute, take inputs from fd 0, and shows results on fds 1 and 2.</p>
+<p>
+Why this sudden talk? March on to PIPE and Redirection…</p>
+</div>
+</div>
+<div id="outline-container-headline-11" class="outline-2">
+<h2 id="headline-11">
+PIPE and Redirection
+</h2>
+<div id="outline-text-headline-11" class="outline-text-2">
+<p>One of the powerful features of shell is commands chaining i.e. output of one can be fed into input of another command and so on and so forth. This facility is provided by PIPE (&#34;|&#34;). General syntax is:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ cmd1 | cmd2 ...
+<span style="color:#75715e"># or,</span>
+$ cmd1 |&amp; cmd2 ...</code></pre></div>
+</div>
+<p>
+With “|” only stdout is connected to stdin of cmd2, but, with “|&amp;” both stdout and sdterr of cmd1 is connected to stdin of cmd2.</p>
+<p>
+For example, to count the lines of code of a python project:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ find . -name <span style="color:#e6db74">&#39;*.py&#39;</span> | xargs wc -l</code></pre></div>
+</div>
+<p>
+Here, first find command finds all the python files (ending with .py extension) in the current working directory (explained below) and the output is fed to another program named wc (wc – print newline, word, and byte counts for each file) which with -l option shows the total line counts. You see that separating stdout and stderr is a good design. In example above, if find throws any warning messages (to stderr), they can be displayed on shell without effecting stream being fed to wc.</p>
+<p>
+Command&#39;s output can be redirected to a file with the redirection operator (&gt; and &gt;&amp;) with ‘&amp;&#39; carrying similar meaning. e.g.</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ echo <span style="color:#e6db74">&#34;Shivohum&#34;</span> &gt; some_file</code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-12" class="outline-2">
+<h2 id="headline-12">
+Shell Expansion
+</h2>
+<div id="outline-text-headline-12" class="outline-text-2">
+<p>In above find example, shell searches for all python files as *.py. Such expansion is another powerful feature of shell i.e. shell after tokenizing the commandline, performs possible expansion. For example, ~ gets expanded to user&#39;s home directory, *.py matches all the files having .py extension, etc.
+Users and Permissions</p>
+<p>
+GNU/Linux provides a multi-user environment i.e. many users can be simultaneously logged on to the same system and working seamlessly. However, there is single root user. You may check your username and users who are logged into the system with who commands:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ whomai
+$ who</code></pre></div>
+</div>
+<p>
+You might be thinking if there is a common disk and a common filesystem, how is this seamlessness maintained? Permissions! Each file (remember, everything is a file) has three kinds of access rights: read(r), write(w) and execute(x), each for three different categories: user (owner of the file), file group and others. This is defined by 9 bits and are represented as 3 octal digits which are arranged as:</p>
+<table>
+<tbody>
+<tr>
+<td>Owner(rwx)</td>
+<td>Group(rwx)</td>
+<td>Others(rwx)</td>
+</tr>
+</tbody>
+</table>
+<p>
+Any permission which is missing for a particular category is denoted by &#34;-&#34;. Example:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ ls -l /bin/ps
+-rwxr-xr-x <span style="color:#ae81ff">1</span> root root 127K Jul <span style="color:#ae81ff">13</span> 16:50 /bin/ps</code></pre></div>
+</div>
+<ul>
+<li>
+<p>Initial - says it is a file not a directory. In case of directory, it would be d</p>
+</li>
+<li>
+<p>Next triplet rwx says that the owner has full permissions to read, write and execute</p>
+</li>
+<li>
+<p>Middle triplet r-x says that groups members can read and execute file but can&#39;t write to it</p>
+</li>
+<li>
+<p>Last triplet r-x carries same information as groups for others</p>
+</li>
+</ul>
+<p>Instead of rwx, another way of denoting permissions is with octal digits. For above example, it would be: 0755. Initial 0 signifying octal number.</p>
+</div>
+</div>
+<div id="outline-container-headline-13" class="outline-2">
+<h2 id="headline-13">
+Notion of current working directory and navigation
+</h2>
+<div id="outline-text-headline-13" class="outline-text-2">
+<p>Every process has a notion of current working directory (cwd). You may check the cwd of your shell with pwd (print working directory) command:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ pwd</code></pre></div>
+</div>
+<p>
+There is an environment variable PWD which reflects cwd and gets updated as you navigate in the filesystem with cd (change directory) command. cd changes the working directory. It may take absolute pathname (e.g. <em>opt</em>) or path relative to cwd. Relative navigation from cwd is achieved with two special files found in every directory:</p>
+<ul>
+<li>
+<p>. (dot): denotes current directory</p>
+</li>
+<li>
+<p>.. (double dots): denotes parent directory</p>
+</li>
+</ul>
+<p>Few examples:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ cd ~                          <span style="color:#75715e"># cd to home directory with shell expansion</span>
+$ cd /home/gv                   <span style="color:#75715e"># explicit cd to home dir. Your username might differ:)</span>
+$ cd ./../..                    <span style="color:#75715e"># go two levels above from cwd</span></code></pre></div>
+</div>
+<p>
+try it!</p>
+</div>
+</div>
+<div id="outline-container-headline-14" class="outline-2">
+<h2 id="headline-14">
+Getting help
+</h2>
+<div id="outline-text-headline-14" class="outline-text-2">
+<p>There are info/manual (help) pages available for commands, so it is a good practice to leverage that. You can pull info page with info command:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ info ps                       <span style="color:#75715e">#  Type &#39;q&#39; to exit info screen.</span></code></pre></div>
+</div>
+<p>
+Additionally, you may get command&#39;s options help with –help:</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ ps --help                     <span style="color:#75715e"># i.e. command --help</span></code></pre></div>
+</div>
+<p>
+This concludes our discussion and we have just scratched the surface. The intent has been to give you the basics with a hope that it steers you in the right direction.</p>
+</div>
+</div>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>om tat sat</p>
+      
+      
+        ©
+        
+        2021
+         seekingfourth 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+      <script src="/js/coder.min.235666b114443867d43eeb5799d51f6252965e5163f338285e113fa381d3d27e.js" integrity="sha256-I1ZmsRREOGfUPutXmdUfYlKWXlFj8zgoXhE/o4HT0n4="></script>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E6T5TED6PQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E6T5TED6PQ');
+</script>
+
+  </body>
+
+</html>
