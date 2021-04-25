@@ -6,22 +6,31 @@
     <description>Recent content in Tags on seekingfourth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Apr 2021 15:22:56 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 07:17:29 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Qualification</title>
-      <link>/tags/qualification/</link>
-      <pubDate>Mon, 12 Apr 2021 15:22:56 +0530</pubDate>
+      <title>Spirituality</title>
+      <link>/tags/spirituality/</link>
+      <pubDate>Sun, 25 Apr 2021 07:17:29 +0530</pubDate>
       
-      <guid>/tags/qualification/</guid>
+      <guid>/tags/spirituality/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spirituality</title>
-      <link>/tags/spirituality/</link>
-      <pubDate>Mon, 12 Apr 2021 15:22:56 +0530</pubDate>
+      <title>Yoga</title>
+      <link>/tags/yoga/</link>
+      <pubDate>Sun, 25 Apr 2021 07:17:29 +0530</pubDate>
       
-      <guid>/tags/spirituality/</guid>
+      <guid>/tags/yoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ŚrimadBhagvadGītā</title>
+      <link>/tags/%C5%9Brimadbhagvadg%C4%ABt%C4%81/</link>
+      <pubDate>Sun, 25 Apr 2021 07:17:29 +0530</pubDate>
+      
+      <guid>/tags/%C5%9Brimadbhagvadg%C4%ABt%C4%81/</guid>
       <description></description>
     </item>
     
@@ -35,38 +44,11 @@
     </item>
     
     <item>
-      <title>BhagvadGītā</title>
-      <link>/tags/bhagvadg%C4%ABt%C4%81/</link>
-      <pubDate>Fri, 08 Jan 2021 11:27:31 +0530</pubDate>
-      
-      <guid>/tags/bhagvadg%C4%ABt%C4%81/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yoga</title>
-      <link>/tags/yoga/</link>
-      <pubDate>Fri, 20 Mar 2020 13:08:38 +0530</pubDate>
-      
-      <guid>/tags/yoga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Learnings</title>
       <link>/tags/learnings/</link>
       <pubDate>Sat, 21 Sep 2019 17:27:27 +0530</pubDate>
       
       <guid>/tags/learnings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CommandLine</title>
-      <link>/tags/commandline/</link>
-      <pubDate>Thu, 04 Apr 2019 21:38:18 +0530</pubDate>
-      
-      <guid>/tags/commandline/</guid>
       <description></description>
     </item>
     

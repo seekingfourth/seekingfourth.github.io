@@ -3,34 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
-  </url><url>
-    <loc>/tags/qualification/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
     <loc>/tags/spirituality/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
-    <loc>/series/s%C4%81dhan%C4%81-catu%E1%B9%A3%E1%B9%ADaya/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <loc>/posts/steps_to_self/</loc>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
     <loc>/categories/ved%C4%81nta/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
-    <loc>/posts/viveka/</loc>
-    <lastmod>2021-04-12T15:22:56+05:30</lastmod>
+    <loc>/tags/yoga/</loc>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
+  </url><url>
+    <loc>/tags/%C5%9Brimadbhagvadg%C4%ABt%C4%81/</loc>
+    <lastmod>2021-04-25T07:17:29+05:30</lastmod>
   </url><url>
     <loc>/posts/vedanta/</loc>
     <lastmod>2021-04-10T14:01:38+05:30</lastmod>
@@ -89,9 +86,6 @@
     <loc>/posts/liberated_i_am/</loc>
     <lastmod>2021-01-11T19:52:39+05:30</lastmod>
   </url><url>
-    <loc>/tags/bhagvadg%C4%ABt%C4%81/</loc>
-    <lastmod>2021-01-08T11:27:31+05:30</lastmod>
-  </url><url>
     <loc>/posts/in_reality_and_in_goodness/</loc>
     <lastmod>2021-01-08T11:27:31+05:30</lastmod>
   </url><url>
@@ -102,9 +96,6 @@
     <lastmod>2020-08-15T17:43:15+05:30</lastmod>
   </url><url>
     <loc>/posts/do_you_desire_yourself/</loc>
-    <lastmod>2020-03-20T13:08:38+05:30</lastmod>
-  </url><url>
-    <loc>/tags/yoga/</loc>
     <lastmod>2020-03-20T13:08:38+05:30</lastmod>
   </url><url>
     <loc>/posts/science_technology_deployment/</loc>
@@ -127,12 +118,6 @@
   </url><url>
     <loc>/posts/god_where/</loc>
     <lastmod>2019-05-01T18:04:23+05:30</lastmod>
-  </url><url>
-    <loc>/posts/intro_to_cmdline/</loc>
-    <lastmod>2019-04-04T21:38:18+05:30</lastmod>
-  </url><url>
-    <loc>/tags/commandline/</loc>
-    <lastmod>2019-04-04T21:38:18+05:30</lastmod>
   </url><url>
     <loc>/posts/a_trip_to_rishikesh/</loc>
     <lastmod>2019-02-05T11:50:53+05:30</lastmod>
@@ -160,5 +145,7 @@
     <loc>/categories/gnu/linux/</loc>
   </url><url>
     <loc>/categories/san%C4%81tandharma/hinduism/</loc>
+  </url><url>
+    <loc>/series/</loc>
   </url>
 </urlset>

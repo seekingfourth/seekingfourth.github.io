@@ -6,19 +6,16 @@
     <description>Recent content on seekingfourth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Apr 2021 15:22:56 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 07:17:29 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Viveka</title>
-      <link>/posts/viveka/</link>
-      <pubDate>Mon, 12 Apr 2021 15:22:56 +0530</pubDate>
+      <title>Steps to Self Realization</title>
+      <link>/posts/steps_to_self/</link>
+      <pubDate>Sun, 25 Apr 2021 07:17:29 +0530</pubDate>
       
-      <guid>/posts/viveka/</guid>
-      <description>Viveka, the intellectual capability to discriminate between real and unreal is the first among the four-fold qualifications in a sādhak (seeker).
- aparoksanūbhūti
- नित्यमात्मस्वरूपं हि दृश्यं तद्विपरीतगम् ।
- एवं यो निश्चयः सम्यग्विवेको वस्तुनः स वै ।।
- अपरोक्षानुभूतिः
-  Ātman (the seer) in itself is alone permanent, the seen is opposed to it (i.e. transient) - such a settled conviction is truly known as Viveka (discrimination between real and unreal)</description>
+      <guid>/posts/steps_to_self/</guid>
+      <description>ādiŚankara in aparokṣānūbhūti describes 15 steps to direct realization of ātman (Self, Consciousness, Brahman). This article lists them briefly along with guidance available from other revered texts. For detailed study, please see References at the end.
+1. yamḥ - The purification of the Senses   The restraint of all the senses by means of such knowledge as &amp;#34;All this is Brahman&amp;#34; is called yamḥ
+ From Yogasūtra, it consists of:</description>
     </item>
     
     <item>
@@ -251,16 +248,6 @@ Note  This article is in progress    </description>
  I: You see the sunlight now and that&amp;#39;s a sign that sun is there
  She: Why can&amp;#39;t I see it then?
  I: We are facing in the opposite direction, and because of the buildings we can&amp;#39;t see it.</description>
-    </item>
-    
-    <item>
-      <title>An Introduction to GNU/Linux Commandline Interface</title>
-      <link>/posts/intro_to_cmdline/</link>
-      <pubDate>Thu, 04 Apr 2019 21:38:18 +0530</pubDate>
-      
-      <guid>/posts/intro_to_cmdline/</guid>
-      <description>Introduction  A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&amp;#39;s operating system and get the output. There are two types of interfaces available to do your work:
-  Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment</description>
     </item>
     
     <item>
