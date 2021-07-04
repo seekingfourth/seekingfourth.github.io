@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>seekingfourth</title>
+    <title>seekingfourth - That Alone is Truth</title>
     <link>/</link>
-    <description>Recent content on seekingfourth</description>
+    <description>Recent content on seekingfourth - That Alone is Truth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Apr 2021 07:17:29 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steps to Self Realization</title>
-      <link>/posts/steps_to_self/</link>
+      <link>/post/steps_to_self/</link>
       <pubDate>Sun, 25 Apr 2021 07:17:29 +0530</pubDate>
       
-      <guid>/posts/steps_to_self/</guid>
+      <guid>/post/steps_to_self/</guid>
       <description>ādiŚankara in aparokṣānūbhūti describes 15 steps to direct realization of ātman (Self, Consciousness, Brahman). This article lists them briefly along with guidance available from other revered texts. For detailed study, please see References at the end.
 1. yamḥ - The purification of the Senses   The restraint of all the senses by means of such knowledge as &amp;#34;All this is Brahman&amp;#34; is called yamḥ
  From Yogasūtra, it consists of:</description>
@@ -20,14 +20,15 @@
     
     <item>
       <title>Vedānta</title>
-      <link>/posts/vedanta/</link>
+      <link>/post/vedanta/</link>
       <pubDate>Sat, 10 Apr 2021 14:01:38 +0530</pubDate>
       
-      <guid>/posts/vedanta/</guid>
+      <guid>/post/vedanta/</guid>
       <description> Introduction  Vedānta is combination of two words: Veda means Knowledge and anta means end. So, it means end of knowledge.
  This is not pessimistic end of knowledge, it means a state where there is nothing more to be known.
  Since the end portions of Vedas, talk and provide instructions to attain such state, they are also called Vedānta.
-Note  This article is in progress    </description>
+ Article in progress…
+   </description>
     </item>
     
     <item>
@@ -41,187 +42,187 @@ Note  This article is in progress    </description>
  Here, you will find my writings on Vedānta/Spirituality and GNU/Linux.
  If you are into programming, this blog has been setup up with these:
   Static site generator: Hugo
-  Theme: Coder
+  Theme: Even
   Hosting: Github Pages</description>
     </item>
     
     <item>
       <title>Emacs Devanagari Support</title>
-      <link>/posts/emacs_devanagari/</link>
+      <link>/post/emacs_devanagari/</link>
       <pubDate>Thu, 08 Apr 2021 13:58:19 +0530</pubDate>
       
-      <guid>/posts/emacs_devanagari/</guid>
+      <guid>/post/emacs_devanagari/</guid>
       <description>   Command Description     C-x RET C-\ devanagari-itrans Change input method to देवनागरी   C-\ Toggle between Hindi and English    </description>
     </item>
     
     <item>
       <title>Make my heart pure</title>
-      <link>/posts/make_heart_pure/</link>
+      <link>/post/make_heart_pure/</link>
       <pubDate>Thu, 08 Apr 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/make_heart_pure/</guid>
+      <guid>/post/make_heart_pure/</guid>
       <description>World offered food To cater my desires I went after it To have it all Got exhausted and sick, I fell The trick of desires Played me well Now, I take it as meds Till the disease I cure In Detachment and Love I make my heart pure  </description>
     </item>
     
     <item>
       <title>Subtle Links</title>
-      <link>/posts/subtle_links/</link>
+      <link>/post/subtle_links/</link>
       <pubDate>Mon, 22 Feb 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/subtle_links/</guid>
+      <guid>/post/subtle_links/</guid>
       <description>Let&amp;#39;s meditate on subtle links World, Life Breath is the link Ears, hearing Sound is the link Skin, feeling Air is the link Eyes, seeing Light is the link You, me Love is the link  </description>
     </item>
     
     <item>
       <title>Rain of Love</title>
-      <link>/posts/rain_of_love/</link>
+      <link>/post/rain_of_love/</link>
       <pubDate>Mon, 15 Feb 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/rain_of_love/</guid>
+      <guid>/post/rain_of_love/</guid>
       <description>Endless waters and the boat fragile Thirsty throat which tempts the Mind Heat of Self Blesses with clouds The Grace saves me from turning into dust In the rain of Love I quench my thirst  </description>
     </item>
     
     <item>
       <title>Wake up and Rise</title>
-      <link>/posts/wakeup_and_rise/</link>
+      <link>/post/wakeup_and_rise/</link>
       <pubDate>Tue, 09 Feb 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/wakeup_and_rise/</guid>
+      <guid>/post/wakeup_and_rise/</guid>
       <description>This is my friend That is my foe Through my mind My web grows Wondrous is the illusion That makes me crawl But I see Truth In words of Wise Living through Desires I wake up and Rise  </description>
     </item>
     
     <item>
       <title>Wandering Feet</title>
-      <link>/posts/wandering_feet/</link>
+      <link>/post/wandering_feet/</link>
       <pubDate>Sun, 07 Feb 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/wandering_feet/</guid>
+      <guid>/post/wandering_feet/</guid>
       <description>Going through an illusory maze Colorful walls and, lots to play Some paths are blocked Some go deeper They keep me enchanted to hold me down Leaving the ephemeral I walk with laughter In search of infinite fields My feet wander  </description>
     </item>
     
     <item>
       <title>Seeking Fourth</title>
-      <link>/posts/seekingfourth/</link>
+      <link>/post/seekingfourth/</link>
       <pubDate>Fri, 05 Feb 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/seekingfourth/</guid>
+      <guid>/post/seekingfourth/</guid>
       <description>With every Thought Word and Deed That I allowed Devoid of Love I concealed my Self Blurry to Shine In search of Truth now Within I peek In unwavering Devotion The Fourth I Seek  </description>
     </item>
     
     <item>
       <title>Give me the Vision</title>
-      <link>/posts/give_me_the_vision/</link>
+      <link>/post/give_me_the_vision/</link>
       <pubDate>Thu, 04 Feb 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/give_me_the_vision/</guid>
+      <guid>/post/give_me_the_vision/</guid>
       <description>Seeing Duality is my inability to see In blinding Darkness and lost in it My seeing is faulty that it sees from eye Give me the vision from Heart to see In Love, In Truth That sets me Free  </description>
     </item>
     
     <item>
       <title>Wake me up</title>
-      <link>/posts/wake_me_up/</link>
+      <link>/post/wake_me_up/</link>
       <pubDate>Fri, 22 Jan 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/wake_me_up/</guid>
+      <guid>/post/wake_me_up/</guid>
       <description>Drunk with desires Deep I sleep Wandering in dream Laugh and weep A voice I hear A soundless sound To wake me up As an alarm Ignorant I am To pay no heed And, what for To snore more!  </description>
     </item>
     
     <item>
       <title>Cosmic Silence</title>
-      <link>/posts/cosmic_silence/</link>
+      <link>/post/cosmic_silence/</link>
       <pubDate>Thu, 21 Jan 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/cosmic_silence/</guid>
+      <guid>/post/cosmic_silence/</guid>
       <description>I find it real I try to act It bewilders me Beyond Intellect I give in Now and, rest my thoughts In cosmic Silence My ego drops  </description>
     </item>
     
     <item>
       <title>Be One</title>
-      <link>/posts/be_one/</link>
+      <link>/post/be_one/</link>
       <pubDate>Tue, 19 Jan 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/be_one/</guid>
+      <guid>/post/be_one/</guid>
       <description>All this whatsoever verily is Self Essence of That is in every breath Let us bask in the bliss of Truth Releasing fetters of the Hearts Be One with That in eternal Love!  </description>
     </item>
     
     <item>
       <title>I wish</title>
-      <link>/posts/i_wish/</link>
+      <link>/post/i_wish/</link>
       <pubDate>Mon, 18 Jan 2021 12:23:46 +0530</pubDate>
       
-      <guid>/posts/i_wish/</guid>
+      <guid>/post/i_wish/</guid>
       <description>Sometimes I wish I could wander afar But no destiny awaits to lead me Sometimes I wish my ambitions could rise But no desire erupts to inflame me Sometimes I wish I could fall in love But Love is all That claims me  </description>
     </item>
     
     <item>
       <title>Wakeful Sleep</title>
-      <link>/posts/wakeful_sleep/</link>
+      <link>/post/wakeful_sleep/</link>
       <pubDate>Sun, 17 Jan 2021 19:41:56 +0530</pubDate>
       
-      <guid>/posts/wakeful_sleep/</guid>
+      <guid>/post/wakeful_sleep/</guid>
       <description>As long as I sleep under the Veil of Ignorance, I get dissolved into a state where I rest with desires Half awake I project Dream Awake I project Illusion Oh what Adventure it is to take To the state of Wakeful sleep from the sleep of desires  </description>
     </item>
     
     <item>
       <title>Ignorant me</title>
-      <link>/posts/ignorant_me/</link>
+      <link>/post/ignorant_me/</link>
       <pubDate>Fri, 15 Jan 2021 19:44:04 +0530</pubDate>
       
-      <guid>/posts/ignorant_me/</guid>
+      <guid>/post/ignorant_me/</guid>
       <description>That Supreme Infinite Illumines my mind My mind is inert That breathes in life Expressions I live Memories I scroll Imaginations I weave Filtered through Desires How Ignorant I am I take me as my mind  </description>
     </item>
     
     <item>
       <title>Liberated I am</title>
-      <link>/posts/liberated_i_am/</link>
+      <link>/post/liberated_i_am/</link>
       <pubDate>Mon, 11 Jan 2021 19:52:39 +0530</pubDate>
       
-      <guid>/posts/liberated_i_am/</guid>
+      <guid>/post/liberated_i_am/</guid>
       <description>Whether get it now Or, in many births Whenever we get Truth is only That That only dwells In me and everyone Once I realise This Liberated &amp;#39;I am&amp;#39;  </description>
     </item>
     
     <item>
       <title>In Reality and in Goodness</title>
-      <link>/posts/in_reality_and_in_goodness/</link>
+      <link>/post/in_reality_and_in_goodness/</link>
       <pubDate>Fri, 08 Jan 2021 11:27:31 +0530</pubDate>
       
-      <guid>/posts/in_reality_and_in_goodness/</guid>
+      <guid>/post/in_reality_and_in_goodness/</guid>
       <description>We know, we live in a world of cause and effect. So, each of our actions causes some effects on the world and on us. Whatever actions we perform, they leave residues in our mind. If we receive happiness from some action, we want more of it or fear the absence of it. On the other hand, if it is grief, we want to run away from it. These residues build our tendencies, make our world of likes and dislikes, and propel us to act further putting us in a vicious cycle of cause and effect.</description>
     </item>
     
     <item>
       <title>Right and Wrong</title>
-      <link>/posts/right_and_wrong/</link>
+      <link>/post/right_and_wrong/</link>
       <pubDate>Sat, 15 Aug 2020 17:43:15 +0530</pubDate>
       
-      <guid>/posts/right_and_wrong/</guid>
+      <guid>/post/right_and_wrong/</guid>
       <description>Life keeps presenting choices in front of us, and we have to make one every time. It is an interesting thing that everyone makes the right choice, and does the right thing. No? Yes. You will also hear statements like &amp;#34;I am doing this wrong…&amp;#34; because &amp;#34;it is the right thing to do at this moment&amp;#34;. Basically, our inner instrument justifies the righteousness of our wrong action. But, such statements remain in the projected light of one&amp;#39;s own knowledge.</description>
     </item>
     
     <item>
       <title>Do you desire yourself?</title>
-      <link>/posts/do_you_desire_yourself/</link>
+      <link>/post/do_you_desire_yourself/</link>
       <pubDate>Fri, 20 Mar 2020 13:08:38 +0530</pubDate>
       
-      <guid>/posts/do_you_desire_yourself/</guid>
+      <guid>/post/do_you_desire_yourself/</guid>
       <description>Whatever a human achieves, is through concentration of mind and a developed intellect which can discriminate and will. It is very well known that a calm mind achieves more than an agitated mind. A personality living the agitations is tossed here and there with the compulsions of the acquired nature. Agitations are caused by attachments primarily, which subsequently leads to fear and anger. Fear is of losing the object of attachment and anger arises for anything which comes in the way of you and the object.</description>
     </item>
     
     <item>
       <title>Science, Technology and Deployment</title>
-      <link>/posts/science_technology_deployment/</link>
+      <link>/post/science_technology_deployment/</link>
       <pubDate>Fri, 10 Jan 2020 12:56:39 +0530</pubDate>
       
-      <guid>/posts/science_technology_deployment/</guid>
+      <guid>/post/science_technology_deployment/</guid>
       <description>Wonderment, Curiosity and Necessity have propelled humans to explore and invent. In untiring joy of experiments and/or a goal in mind, a Scientist brings forth some scientific truth. Based on this scientific discovery, Engineers workout a technology which goes further through the ecosystem and becomes a product in service of beings. Entire cycle goes through continuous improvements so that it can become easily accessible for the masses - better and efficient.</description>
     </item>
     
     <item>
       <title>Om Shāntih Shāntih Shāntih</title>
-      <link>/posts/om_shantih/</link>
+      <link>/post/om_shantih/</link>
       <pubDate>Sun, 17 Nov 2019 18:15:15 +0530</pubDate>
       
-      <guid>/posts/om_shantih/</guid>
+      <guid>/post/om_shantih/</guid>
       <description>ॐ शांतिः शांतिः शांतिः ।। (Om! Peace! Peace! Peace!)
  Everybody wants peace, not for idleness but for activity too. Without peace, life would be at constant war externally and internally. It can&amp;#39;t make any progressive development. However, it has become such a rare phenomenon that people have actually started considering it as an ultimate goal in life:
  Peace is not the ultimate goal, but the most fundamental requirement in one’s life.</description>
@@ -229,19 +230,19 @@ Note  This article is in progress    </description>
     
     <item>
       <title>Teachings of my Father</title>
-      <link>/posts/teachings_of_my_father/</link>
+      <link>/post/teachings_of_my_father/</link>
       <pubDate>Sat, 21 Sep 2019 17:27:27 +0530</pubDate>
       
-      <guid>/posts/teachings_of_my_father/</guid>
+      <guid>/post/teachings_of_my_father/</guid>
       <description>Be Calm - A short story  My father in his early years was curious to see/wear his uncle’s expensive watch. But, he was refrained from doing so. So, he tried it when the uncle was out on his job. As my father held the watch with curiosity, he dropped it on floor. He became nervous of the cold fear of breaking it. Now, with trembling hands, he picked up the watch and it was all good, but being in trembling hands it got dropped again.</description>
     </item>
     
     <item>
       <title>God? Where?</title>
-      <link>/posts/god_where/</link>
+      <link>/post/god_where/</link>
       <pubDate>Wed, 01 May 2019 18:04:23 +0530</pubDate>
       
-      <guid>/posts/god_where/</guid>
+      <guid>/post/god_where/</guid>
       <description>Once I was sitting with 3 years old in the balcony; pre-dawn, facing west. Soon we noticed sudden shift in light, and a short conversation triggered:
  I: See that Sun has risen
  She: Where is it?
@@ -251,69 +252,79 @@ Note  This article is in progress    </description>
     </item>
     
     <item>
+      <title>An Introduction to GNU/Linux Commandline Interface</title>
+      <link>/post/intro_to_cmdline/</link>
+      <pubDate>Thu, 04 Apr 2019 21:38:18 +0530</pubDate>
+      
+      <guid>/post/intro_to_cmdline/</guid>
+      <description>Introduction  A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&amp;#39;s operating system and get the output. There are two types of interfaces available to do your work:
+  Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment</description>
+    </item>
+    
+    <item>
       <title>Remembering a trip to Rishikesh</title>
-      <link>/posts/a_trip_to_rishikesh/</link>
+      <link>/post/a_trip_to_rishikesh/</link>
       <pubDate>Tue, 05 Feb 2019 11:50:53 +0530</pubDate>
       
-      <guid>/posts/a_trip_to_rishikesh/</guid>
+      <guid>/post/a_trip_to_rishikesh/</guid>
       <description>A bit old but it is vivid. Rishikesh (Hrishikesha) literally means &amp;#39;lord of the senses&amp;#39;. I interpret it as this is the starting point geographically to make further spiritual exploration in the mystic Himalayas. Also, Spiritual progress is not possible without control over the senses.
  Rishikesh is considered as world capital of Yoga and a suitable place for the people who want to peep into spiritual life. My college happened to be close to Rishikesh and I could make several visits just to hangout.</description>
     </item>
     
     <item>
       <title>Women are Spiritually advanced</title>
-      <link>/posts/women_are_spiritually_advanced/</link>
+      <link>/post/women_are_spiritually_advanced/</link>
       <pubDate>Thu, 27 Dec 2018 17:53:59 +0530</pubDate>
       
-      <guid>/posts/women_are_spiritually_advanced/</guid>
+      <guid>/post/women_are_spiritually_advanced/</guid>
       <description>I find that Women are spiritually advanced naturally, which means they are positioned at an advanced stage of human evolution. This assertion is not just a sentimental thought but logically true for three primary reasons:
 Intuition  You would agree that women are relatively more intuitive. When we think logically, our &amp;#34;I&amp;#34; thought rises and arranges several other thoughts, do calculations and decide what to do. What we tend to forget that &amp;#34;I&amp;#34; is yet another thought or when becomes decisive, it is an individual will, but still, it is also powered by some other energy which is the very source of our existence.</description>
     </item>
     
     <item>
       <title>Shiva: The Mystic Names</title>
-      <link>/posts/shiva_mystic_names/</link>
+      <link>/post/shiva_mystic_names/</link>
       <pubDate>Thu, 25 Oct 2018 17:31:45 +0530</pubDate>
       
-      <guid>/posts/shiva_mystic_names/</guid>
+      <guid>/post/shiva_mystic_names/</guid>
       <description>Shiva  Shiva means auspicious, pure. The eternal resupreme consciousness which empowers everything. Through His Shakti, creation happens and acquire different qualities: satvik, rajasik or tamasik or remain in different states: awake, dream or sleep. But, Shiva, the pure, is untouched by these qualities or states. He can’t be known as an object, so senses can’t perceive it. How can you know that is the knower itself? He can only be realized by dropping the individual ego and merging into Him.</description>
     </item>
     
     <item>
       <title>I am</title>
-      <link>/posts/i_am/</link>
+      <link>/post/i_am/</link>
       <pubDate>Thu, 12 Jul 2018 17:15:35 +0530</pubDate>
       
-      <guid>/posts/i_am/</guid>
+      <guid>/post/i_am/</guid>
       <description>Now, you are looking for I am…what?
  When we are born, we are stamped with some identities. Then we start accumulating memories and more identities. Kid…memories of being kid, student…memories of being student, son/daughter, brother/sister, friend/foe, profession, father/mother and many. What we do is that we presume some identity and we work to make it strong. To make it strong, we need evidence and we need more of it.</description>
     </item>
     
     <item>
       <title>Happy New Year</title>
-      <link>/posts/happy_new_year/</link>
+      <link>/post/happy_new_year/</link>
       <pubDate>Mon, 01 Jan 2018 13:39:15 +0530</pubDate>
       
-      <guid>/posts/happy_new_year/</guid>
+      <guid>/post/happy_new_year/</guid>
       <description>You would be joyful today, wouldn’t you? Why not, it’s about to be new year! You will refresh yourself by loosen up your (bad) memories of past and will be more determined with the plans for new year. Fantastic!
  The breeze of new year will keep you on your toes for some days or a month and then you will start losing the excitement. Sounds familiar? Happened in past as well?</description>
     </item>
     
     <item>
       <title>We all are Travellers</title>
-      <link>/posts/all_travellers/</link>
+      <link>/post/all_travellers/</link>
       <pubDate>Sun, 22 Oct 2017 13:23:12 +0530</pubDate>
       
-      <guid>/posts/all_travellers/</guid>
+      <guid>/post/all_travellers/</guid>
       <description>Have you ever noticed that all of us know(consciously or unconsciously) that we are not just the body but we are something more? Have you paid attention to statements like “I am having a body ache!”. Who is having the body ache? If you are not just the body, who are you then? We satisfy our intellect by trying to know so many things. But, does it ever get satisfied?</description>
     </item>
     
     <item>
       <title>What are you doing with your seed?</title>
-      <link>/posts/seed/</link>
+      <link>/post/seed/</link>
       <pubDate>Tue, 26 Sep 2017 13:14:17 +0530</pubDate>
       
-      <guid>/posts/seed/</guid>
+      <guid>/post/seed/</guid>
       <description>Last week, there was a surprise visit from a religious group in my locality. They sang religious songs, chanted God’s name(s) and most of the people joined. It was very harmonical. At last, we were discussing one of the “shlokas” from The Gita, which briefly meant, God comes from time to time to establish “dharma” on earth. Some believe it, some don’t. Suppose this is true. Suppose the God will come after 1000years from now.</description>
     </item>
     

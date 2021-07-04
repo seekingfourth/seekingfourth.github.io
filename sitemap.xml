@@ -1,151 +1,352 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
     <loc>/categories/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/tags/spirituality/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
-    <loc>/posts/steps_to_self/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/steps_to_self/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/ved%C4%81nta/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/tags/yoga/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%C5%9Brimadbhagvadg%C4%ABt%C4%81/</loc>
     <lastmod>2021-04-25T07:17:29+05:30</lastmod>
-  </url><url>
-    <loc>/posts/vedanta/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/vedanta/</loc>
     <lastmod>2021-04-10T14:01:38+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2021-04-09T21:46:40+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/tags/emacs/</loc>
     <lastmod>2021-04-08T13:58:19+05:30</lastmod>
-  </url><url>
-    <loc>/posts/emacs_devanagari/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/emacs_devanagari/</loc>
     <lastmod>2021-04-08T13:58:19+05:30</lastmod>
-  </url><url>
-    <loc>/posts/make_heart_pure/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/make_heart_pure/</loc>
     <lastmod>2021-04-08T12:23:46+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/poetry/</loc>
     <lastmod>2021-04-08T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/subtle_links/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/subtle_links/</loc>
     <lastmod>2021-02-22T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/rain_of_love/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/rain_of_love/</loc>
     <lastmod>2021-02-15T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/wakeup_and_rise/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/wakeup_and_rise/</loc>
     <lastmod>2021-02-09T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/wandering_feet/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/wandering_feet/</loc>
     <lastmod>2021-02-07T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/seekingfourth/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/seekingfourth/</loc>
     <lastmod>2021-02-05T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/give_me_the_vision/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/give_me_the_vision/</loc>
     <lastmod>2021-02-04T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/wake_me_up/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/wake_me_up/</loc>
     <lastmod>2021-01-22T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/cosmic_silence/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/cosmic_silence/</loc>
     <lastmod>2021-01-21T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/be_one/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/be_one/</loc>
     <lastmod>2021-01-19T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/i_wish/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/i_wish/</loc>
     <lastmod>2021-01-18T12:23:46+05:30</lastmod>
-  </url><url>
-    <loc>/posts/wakeful_sleep/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/wakeful_sleep/</loc>
     <lastmod>2021-01-17T19:41:56+05:30</lastmod>
-  </url><url>
-    <loc>/posts/ignorant_me/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/ignorant_me/</loc>
     <lastmod>2021-01-15T19:44:04+05:30</lastmod>
-  </url><url>
-    <loc>/posts/liberated_i_am/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/liberated_i_am/</loc>
     <lastmod>2021-01-11T19:52:39+05:30</lastmod>
-  </url><url>
-    <loc>/posts/in_reality_and_in_goodness/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/in_reality_and_in_goodness/</loc>
     <lastmod>2021-01-08T11:27:31+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/perspective/</loc>
     <lastmod>2020-08-15T17:43:15+05:30</lastmod>
-  </url><url>
-    <loc>/posts/right_and_wrong/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/right_and_wrong/</loc>
     <lastmod>2020-08-15T17:43:15+05:30</lastmod>
-  </url><url>
-    <loc>/posts/do_you_desire_yourself/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/do_you_desire_yourself/</loc>
     <lastmod>2020-03-20T13:08:38+05:30</lastmod>
-  </url><url>
-    <loc>/posts/science_technology_deployment/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/science_technology_deployment/</loc>
     <lastmod>2020-01-10T12:56:39+05:30</lastmod>
-  </url><url>
-    <loc>/posts/om_shantih/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/om_shantih/</loc>
     <lastmod>2019-11-17T18:15:15+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/tags/learnings/</loc>
     <lastmod>2019-09-21T17:27:27+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/lessons/</loc>
     <lastmod>2019-09-21T17:27:27+05:30</lastmod>
-  </url><url>
-    <loc>/posts/teachings_of_my_father/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/teachings_of_my_father/</loc>
     <lastmod>2019-09-21T17:27:27+05:30</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/experiences/</loc>
     <lastmod>2019-05-01T18:04:23+05:30</lastmod>
-  </url><url>
-    <loc>/posts/god_where/</loc>
-    <lastmod>2019-05-01T18:04:23+05:30</lastmod>
-  </url><url>
-    <loc>/posts/a_trip_to_rishikesh/</loc>
-    <lastmod>2019-02-05T11:50:53+05:30</lastmod>
-  </url><url>
-    <loc>/posts/women_are_spiritually_advanced/</loc>
-    <lastmod>2018-12-27T17:53:59+05:30</lastmod>
-  </url><url>
-    <loc>/posts/shiva_mystic_names/</loc>
-    <lastmod>2018-10-25T17:31:45+05:30</lastmod>
-  </url><url>
-    <loc>/posts/i_am/</loc>
-    <lastmod>2018-07-12T17:15:35+05:30</lastmod>
-  </url><url>
-    <loc>/posts/happy_new_year/</loc>
-    <lastmod>2018-01-01T13:39:15+05:30</lastmod>
-  </url><url>
-    <loc>/posts/all_travellers/</loc>
-    <lastmod>2017-10-22T13:23:12+05:30</lastmod>
-  </url><url>
-    <loc>/posts/seed/</loc>
-    <lastmod>2017-09-26T13:14:17+05:30</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-  </url><url>
-    <loc>/categories/gnu/linux/</loc>
-  </url><url>
-    <loc>/categories/san%C4%81tandharma/hinduism/</loc>
-  </url><url>
-    <loc>/series/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
+  
+  <url>
+    <loc>/post/god_where/</loc>
+    <lastmod>2019-05-01T18:04:23+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/intro_to_cmdline/</loc>
+    <lastmod>2019-04-04T21:38:18+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/commandline/</loc>
+    <lastmod>2019-04-04T21:38:18+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/a_trip_to_rishikesh/</loc>
+    <lastmod>2019-02-05T11:50:53+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/women_are_spiritually_advanced/</loc>
+    <lastmod>2018-12-27T17:53:59+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/shiva_mystic_names/</loc>
+    <lastmod>2018-10-25T17:31:45+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/i_am/</loc>
+    <lastmod>2018-07-12T17:15:35+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/happy_new_year/</loc>
+    <lastmod>2018-01-01T13:39:15+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/all_travellers/</loc>
+    <lastmod>2017-10-22T13:23:12+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/seed/</loc>
+    <lastmod>2017-09-26T13:14:17+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/gnu/linux/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/san%C4%81tandharma/hinduism/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CommandLine on seekingfourth</title>
+    <title>CommandLine on seekingfourth - That Alone is Truth</title>
     <link>/tags/commandline/</link>
-    <description>Recent content in CommandLine on seekingfourth</description>
+    <description>Recent content in CommandLine on seekingfourth - That Alone is Truth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Apr 2019 21:38:18 +0530</lastBuildDate><atom:link href="/tags/commandline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Introduction to GNU/Linux Commandline Interface</title>
-      <link>/posts/intro_to_cmdline/</link>
+      <link>/post/intro_to_cmdline/</link>
       <pubDate>Thu, 04 Apr 2019 21:38:18 +0530</pubDate>
       
-      <guid>/posts/intro_to_cmdline/</guid>
+      <guid>/post/intro_to_cmdline/</guid>
       <description>Introduction  A personal computer is intended to provide user interaction. The user executes some program which runs on top of the computer&amp;#39;s operating system and get the output. There are two types of interfaces available to do your work:
   Graphical (User) Interface (GUI): Stuff like you click some icon which invokes the related program or does some work in an already running application. This is available through a Desktop Environment</description>
     </item>
